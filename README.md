@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunlk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karunlk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" width="48%" />
 
 </div>
 
